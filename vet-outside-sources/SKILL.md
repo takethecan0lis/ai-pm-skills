@@ -9,6 +9,14 @@ description: A checking routine for outside material before you use it. Covers a
 
 Material from outside your own work can run code, read your keys, or carry text that talks to your AI assistant. This routine puts a check between "I found it" and "I use it". It also keeps the check honest: the report says what was looked at and what was not, so nobody reads silence as approval.
 
+## Objective and benefit
+
+**Objective:** Check outside material before you use it, and say what was not checked.
+
+**Benefit:** It aims to reduce the risk to your keys and files, and to help catch hidden instructions aimed at an AI. It also makes "did we check that?" answerable with a record. Without it, a plugin, prompt or download can be used on trust, and nobody can later say what was looked at.
+
+**Why it is worth having:** You can use outside tools and prompts with your eyes open. That matters more as AI assistants read and act on text.
+
 ## When to use
 
 Use it when any of these happen:
