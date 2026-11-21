@@ -52,5 +52,5 @@ Decided by default (undo by naming it): moved the beta cohort survey from Tuesda
 - It does not make a reader reply; a silent reader triggers the default, which can be wrong.
 - Adopted, not measured: no result is claimed for fewer missed decisions or faster replies.
 
-## Licence and version
+## License and version
 CC BY 4.0. Attribution: Drew Podwal. Version 0.1, 2026-11-21. Adopted, not measured.
