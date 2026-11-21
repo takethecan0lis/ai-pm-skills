@@ -8,6 +8,13 @@ description: Opens every status note, hand-off or session summary with a short "
 ## Purpose
 Decisions get lost when they sit at the bottom of a long status note. This skill moves every decision to the top, caps them at three, and makes each one answerable by typing a few words under it. The reader sees what is blocking progress before anything else.
 
+## Objective and benefit
+**Objective:** Every status note opens with the few decisions the reader must make, each with a recommended answer.
+
+**Benefit:** Decisions are easier to find in long updates, so the reader can answer quickly instead of hunting for the question. A default date helps keep work moving when the reader is away. Without it, questions sit unanswered at the bottom of a note, work stalls quietly, and the reader finds out late that they were the blocker.
+
+**Why it is worth having:** It aims at decisions made on time rather than at the next meeting. Faster, better decisions with less meeting time is the outcome the skill is built for.
+
 ## When to use
 - You are writing a status note, weekly update, hand-off or resume note and at least one item needs a decision from the reader.
 - A reader has told you they skim and miss questions.
