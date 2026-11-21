@@ -8,6 +8,13 @@ description: Holds the owner of the work to a cap of three open threads. When a 
 ## Purpose
 Starting is cheap and finishing is not. This skill applies a work-in-progress limit to a person, with an assistant that is willing to say no. The owner opts in on purpose: they ask to be held to the limit, and the assistant keeps that promise even when the owner is in a hurry.
 
+## Objective and benefit
+**Objective:** Keep a small cap on open work and say no out loud to new work until something finishes.
+
+**Benefit:** It aims at less half-built work, less context switching and fewer stale threads. New asks go to a visible backlog instead of quietly starting. Without a cap, it is easy to begin everything and finish little, and old threads can rot while attention jumps to the newest request.
+
+**Why it is worth having:** It aims at more work actually finished, which is where value reaches users. It also gives a leader a reason to say no that both sides can see.
+
 ## When to use
 - The owner has asked to be held to a limit of three open threads, and says so at the start.
 - A new request arrives while three threads are open.
