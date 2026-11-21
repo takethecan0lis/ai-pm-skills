@@ -51,5 +51,5 @@ Assistant logs: "2026-03-10, override: referral spec started; displaces churn su
 - It depends on the owner keeping the thread list honest.
 - Adopted, not measured: no result is claimed for fewer open threads or faster finishing.
 
-## Licence and version
+## License and version
 CC BY 4.0. Attribution: Drew Podwal. Version 0.1, 2026-11-21. Adopted, not measured.
