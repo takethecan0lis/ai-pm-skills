@@ -4,11 +4,11 @@ Adopted, not measured: these routines are in use, but no result (catches, false 
 
 # AI product management skills
 
-Six short skills for working with an AI assistant as a product person. Each is a plain-prose page in the open Skill format (a folder with a `SKILL.md`). They contain no scripts and run nothing. The examples are invented.
+Eight short skills for working with an AI assistant as a product person. Each is a plain-prose page in the open Skill format (a folder with a `SKILL.md`). They contain no scripts and run nothing. The examples are invented.
 
-## Why these six
+## Why these eight
 
-The six share one aim: when a person works with an AI assistant, they help make decisions, status, focus, trust in outside material and priority visible and checkable. A reader can see what needs deciding, what was and was not verified, what is open, what was vetted, and why one item ranks above another. They are adopted, not measured, so take the method, not a claim.
+The eight share one aim: when a person works with an AI assistant, they help make decisions, status, focus, trust in outside material and priority visible and checkable. A reader can see what needs deciding, what was and was not verified, what is open, what was vetted, and why one item ranks above another. They are adopted, not measured, so take the method, not a claim.
 
 | Skill | What it is for |
 |---|---|
@@ -17,7 +17,9 @@ The six share one aim: when a person works with an AI assistant, they help make 
 | [finish-first](finish-first/SKILL.md) | Cap open threads, say no out loud, and park new work instead of starting it. |
 | [vet-outside-sources](vet-outside-sources/SKILL.md) | Check outside material before you use it, and say what you did not check. A short [class demo script](vet-outside-sources/CLASS-DEMO-SCRIPT.md) is included. |
 | [wsjf-cost-of-delay](wsjf-cost-of-delay/SKILL.md) | Rank work with WSJF where the sponsor scores only cost of delay and the team sizes the job. |
-| [decision-digest](decision-digest/SKILL.md) | Send a periodic page a busy owner can answer on a phone: wins first, then each decision with full context and a recommended answer. |
+| [decision-digest](decision-digest/SKILL.md) | Send a periodic page a busy owner can answer on a phone: what they chose to see first, then each decision with full context and a recommended answer. Asks you how you like to read and answer before the first digest. |
+| [session-snapshot](session-snapshot/SKILL.md) | Keep a project's memory outside the conversation in four living files, so any new session can pick up where the last one stopped. Asks you where the files live and what must never be written down. |
+| [evaluate-outside-repos](evaluate-outside-repos/SKILL.md) | Decide whether an outside repo is worth your time: fit to your needs, new to you, upkeep and cost to adopt. Never says a repo is safe; run vet-outside-sources first. Asks about your needs before the first evaluation. |
 
 ## How to use a skill
 
