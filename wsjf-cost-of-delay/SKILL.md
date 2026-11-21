@@ -10,6 +10,13 @@ WSJF asks one question of every candidate: how much does waiting cost per unit o
 
 Background: WSJF comes from SAFe, a published framework, and rests on Reinertsen's cost-of-delay idea. The rule that the sponsor scores only cost of delay is a variation used in practice. It is not the published standard.
 
+## Objective and benefit
+**Objective:** Rank work by economics so the order is explicit.
+
+**Benefit:** It separates what the sponsor knows (value and urgency) from what the team knows (size). That aims to stop "whoever shouts loudest wins" and makes trade-offs something people can discuss. Without it, the order can follow opinion or volume, and nobody can say why one item beat another.
+
+**Why it is worth having:** Effort goes first to what delay costs most per unit of work. That is ranking by economics rather than by pressure.
+
 ## When to use
 - You have more candidates than capacity and need an order you can defend.
 - Priority debates repeat because nobody wrote down why one item beats another.
