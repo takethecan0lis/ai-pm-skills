@@ -81,6 +81,6 @@ CLEARED summary (a different, equally invented item; "demo-pdf-tidy" does not ex
 - A rule nobody triggers is forgotten. Attach each use of this routine to a trigger (the list under "When to use") and to a record (the ledger line), or it fades.
 - Noise teaches people to skim. If too many alarms turn out false, readers stop reading. Track dismissed false alarms, and loosen a check by name when it keeps crying wolf.
 
-## Licence and version
+## License and version
 
 CC BY 4.0. Attribution: Drew Podwal. Version 0.1, 2026-11-21. Adopted, not measured: no result has been measured yet.
