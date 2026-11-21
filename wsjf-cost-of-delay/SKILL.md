@@ -66,5 +66,10 @@ Offline mode has the second-highest cost of delay and still ranks last, because 
 - False precision. Quoting WSJF to two decimals from 1-to-8 inputs implies accuracy the inputs lack. Treat near-ties as ties.
 - Gaming time criticality. Every item becomes urgent when urgency buys priority. Ask for the date and the consequence behind any 5 or 8, and write them next to the score.
 
+## Supporting pages
+- [What is WSJF?](01-what-is-wsjf.md)
+- [Foundations: the ideas WSJF rests on](02-foundations.md)
+- [Use cases](03-use-cases.md)
+
 ## Licence and version
 CC BY 4.0. Attribution: Drew Podwal. Version 0.1, 2026-11-21. Adopted, not measured: no result has been measured yet.
