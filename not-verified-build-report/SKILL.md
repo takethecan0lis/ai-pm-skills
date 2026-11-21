@@ -8,6 +8,13 @@ description: Writes a four-part report whenever a change is handed over for test
 ## Purpose
 "Done" often means "I built it". This skill forces a handover to say what was actually checked and what was not, so the owner tests the right things and nobody trusts an unchecked claim.
 
+## Objective and benefit
+**Objective:** Every report says what was checked, what was not, and what is needed from the owner.
+
+**Benefit:** "Done" is less likely to mean "looks done". Gaps are easier to see before release, and the owner can judge the evidence instead of trusting a claim. Without it, an unchecked area ships as if it had been tested, and the first person to find the problem can be a user.
+
+**Why it is worth having:** It helps keep status honest, which is what lets an owner decide what to test next. The aim is fewer surprises after release.
+
 ## When to use
 - You are handing a change to someone who will test, review or accept it.
 - You are about to write "done", "ready" or "working".
