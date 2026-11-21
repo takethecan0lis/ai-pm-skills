@@ -42,5 +42,5 @@ Invented data. Product team "Pebble Notes", build 2.4.1 (hash a3f9c21), 2026-03-
 - It cannot catch what the author does not know to list as unverified.
 - Adopted, not measured: no result is claimed for fewer escaped defects or faster acceptance.
 
-## Licence and version
+## License and version
 CC BY 4.0. Attribution: Drew Podwal. Version 0.1, 2026-11-21. Adopted, not measured.
