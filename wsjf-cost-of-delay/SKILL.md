@@ -71,5 +71,5 @@ Offline mode has the second-highest cost of delay and still ranks last, because 
 - [Foundations: the ideas WSJF rests on](02-foundations.md)
 - [Use cases](03-use-cases.md)
 
-## Licence and version
+## License and version
 CC BY 4.0. Attribution: Drew Podwal. Version 0.1, 2026-11-21. Adopted, not measured: no result has been measured yet.
