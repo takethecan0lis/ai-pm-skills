@@ -4,11 +4,11 @@ Adopted, not measured: these routines are in use, but no result (catches, false 
 
 # AI product management skills
 
-Five short skills for working with an AI assistant as a product person. Each is a plain-prose page in the open Skill format (a folder with a `SKILL.md`). They contain no scripts and run nothing. The examples are invented.
+Six short skills for working with an AI assistant as a product person. Each is a plain-prose page in the open Skill format (a folder with a `SKILL.md`). They contain no scripts and run nothing. The examples are invented.
 
-## Why these five
+## Why these six
 
-The five share one aim: when a person works with an AI assistant, they help make decisions, status, focus, trust in outside material and priority visible and checkable. A reader can see what needs deciding, what was and was not verified, what is open, what was vetted, and why one item ranks above another. They are adopted, not measured, so take the method, not a claim.
+The six share one aim: when a person works with an AI assistant, they help make decisions, status, focus, trust in outside material and priority visible and checkable. A reader can see what needs deciding, what was and was not verified, what is open, what was vetted, and why one item ranks above another. They are adopted, not measured, so take the method, not a claim.
 
 | Skill | What it is for |
 |---|---|
@@ -17,6 +17,7 @@ The five share one aim: when a person works with an AI assistant, they help make
 | [finish-first](finish-first/SKILL.md) | Cap open threads, say no out loud, and park new work instead of starting it. |
 | [vet-outside-sources](vet-outside-sources/SKILL.md) | Check outside material before you use it, and say what you did not check. A short [class demo script](vet-outside-sources/CLASS-DEMO-SCRIPT.md) is included. |
 | [wsjf-cost-of-delay](wsjf-cost-of-delay/SKILL.md) | Rank work with WSJF where the sponsor scores only cost of delay and the team sizes the job. |
+| [decision-digest](decision-digest/SKILL.md) | Send a periodic page a busy owner can answer on a phone: wins first, then each decision with full context and a recommended answer. |
 
 ## How to use a skill
 
