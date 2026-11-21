@@ -6,6 +6,10 @@ Adopted, not measured: these routines are in use, but no result (catches, false 
 
 Five short skills for working with an AI assistant as a product person. Each is a plain-prose page in the open Skill format (a folder with a `SKILL.md`). They contain no scripts and run nothing. The examples are invented.
 
+## Why these five
+
+The five share one aim: when a person works with an AI assistant, they help make decisions, status, focus, trust in outside material and priority visible and checkable. A reader can see what needs deciding, what was and was not verified, what is open, what was vetted, and why one item ranks above another. They are adopted, not measured, so take the method, not a claim.
+
 | Skill | What it is for |
 |---|---|
 | [needs-you-block](needs-you-block/SKILL.md) | Open every status note with at most three asks, the recommended answer first. |
